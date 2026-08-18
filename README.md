@@ -6,10 +6,6 @@ A curated collection of CWCheat codes patched for **4:3 aspect ratio** support o
 
 This repository contains a modified cheat database (`cheat-43.db`) derived from the original CWCheat database. All aspect ratio cheats have been adjusted to output a **4:3 ratio** instead of the default widescreen (16:9/16:10) that PPSSPP applies.
 
-## How It Works
-
-PPSSPP natively supports widescreen hacks (16:9, 21:9, 32:9, etc.). This project patches those cheat codes to force a **4:3 handheld screen ratio** — the same aspect ratio the game originally rendered at on PSP hardware.
-
 ## Testing
 
 All 4:3 patches have been **tested on real 4:3 display devices** (PSP hardware and 4:3 monitors) to ensure correct rendering.
