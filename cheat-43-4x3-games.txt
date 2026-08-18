@@ -1,0 +1,90 @@
+###############################
+>>> Games Supporting 4:3 Aspect Ratio <<<
+>>> Source: cheat-43.db <<<
+###############################
+
+007: From Russia With Love [US]                          ULUS-10080
+Army Of Two: The 40th Day [US]                          ULUS-10472
+Assassin's Creed: Bloodline [EU]                        ULES-01367
+Ben 10 Alien Force: Vilgax Attack [US]                  ULUS-10488
+BeoWulf [US]                                            ULUS-10329
+Bounty Hounds [US]                                      ULUS-10161
+Burnout Dominator [US]                                  ULUS-10236
+Chili Con Carnage [US]                                  ULUS-10216
+Crash Of The Titans [US]                                ULUS-10304
+Crisis Core: Final Fantasy VII [US]                     ULUS-10336
+Dante's Inferno [EU]                                    ULES-01384/5/8
+Dante's Inferno [US]                                    ULUS-10469
+Daxter [US]                                             UCUS-98618
+Dead To Rights: Reckoning [US]                          ULUS-10023
+Death Jr. [US]                                          ULUS-10027
+Digimon World Re:Digitize (PlayStation Store) [JP]      NPJH-50588
+Dissidia 012: Duodecim Final Fantasy [EU]               ULES-01505
+Dissidia 012: Duodecim Final Fantasy [US]               ULUS-10566
+Dissidia: Final Fantasy [US]                            ULUS-10437
+Driver 76 [US]                                          ULUS-10235
+Dungeon Explorer: Warriors Of Ancient Arts [US]         ULUS-10289
+Final Fantasy: Type-0 Reishiki (Disk 1) (PS Store) [JP] NPJH-50443
+Fushigi No Dungeon: Fuurai No Shiren 3 Portable [JP]    ULJS-00239
+G-Force [US]                                            ULUS-10439
+Ghostbusters: The Video Game [US]                       ULUS-10486
+Gitaroo Man Lives! [US]                                 ULUS-10207
+Gun Showdown [EU]                                       ULES-00484
+Gun Showdown [US]                                       ULUS-10158
+God Eater 2 [JP]                                        NPJH-50832
+God Eater Burst [US]                                    ULUS-10563
+God Of War: Chains Of Olympus [US]                      UCUS-98653
+God Of War: Ghost Of Sparta [US]                        UCUS-98737
+Hellboy: The Science Of Evil [US]                       ULUS-10301
+Killzone: Liberation [US]                               UCUS-98646
+LEGO Indiana Jones 2 [EU]                               ULES-01370
+LEGO Indiana Jones 2 [US]                               ULUS-10487
+LEGO Indiana Jones [US]                                 ULUS-10365
+LEGO Pirates Of The Caribbean [US]                      ULUS-10575
+LEGO Star Wars II [US]                                  ULUS-10155
+LEGO Star Wars III [US]                                 ULUS-10531
+LittleBigPlanet [US]                                    UCUS-98744
+Lord Of Apocalypse (PS Store) [JP]                      NPJH-50503
+Lord Of Arcana [US]                                     ULUS-10479
+Marvel Ultimate Alliance [v1-v2] [US]                   ULUS-10167
+Marvel Ultimate Alliance 2 [US]                         ULUS-10421
+N.O.V.A. [US]                                           NPUZ-00179
+Naruto Shippuden: Kizuna Drive [US]                     ULUS-10571
+Nayuta No Kiseki (PS Store) [JP]                        NPJH-50625
+Need For Speed: Shift [US]                              ULUS-10462
+Phantasy Star Portable [US]                             ULUS-10410
+Phantasy Star Portable 2 [US]                           ULUS-10529
+Phineas And Ferb - Across The 2nd Dimension [US]        NPUG-98775
+Pimp My Ride [US]                                       ULUS-10256
+Prince Of Persia: Revelations [US]                      ULUS-10063
+Prince Of Persia: Rival Swords [US]                     ULUS-10240
+Ratchet & Clank: Size Matters [US]                      UCUS-98633
+Rengoku II [US]                                         ULUS-10127
+Resistance: Retribution [US]                            UCUS-98668
+Ridge Racer [EU]                                        UCES-00002
+Ridge Racer 2 [EU]                                      UCES-00422
+Secret Agent Clank [US]                                 UCUS-98697
+Shin Megami Tensei: Persona 3 Portable [US]             ULUS-10512
+Split/Second [US]                                       ULUS-10513
+Star Wars: The Force Unleashed [US]                     ULUS-10345
+Street Supremacy [US]                                   ULUS-10069
+Tales Of The World: Radiant Mythology [US]              ULUS-10271
+Tales Of The World: Radiant Mythology 2 [JP]            ULJS-00175
+Tales Of The World: Radiant Mythology 3 (PS Store) [JP] NPJH-50353
+Tenchu: Shadow Assassins [US]                           ULUS-10419
+The 3rd Birthday [EU]                                   ULES-01513
+The 3rd Birthday [US]                                   ULUS-10567
+The Fast & The Furious [US]                             ULUS-10198
+Toukiden Kiwami [JP]                                    NPJH-50878
+Undead Knights [US]                                     ULUS-10453
+White Knight Chronicles: Origins [EU]                   UCES-01511
+World Rally Championship [US]                           ULUS-10093
+X-Men Legends II: Rise Of Apocalypse [US]               ULUS-10045
+YS Seven [US]                                           ULUS-10551
+Ys: The Ark Of Napishtim [US]                           ULUS-10051
+Ys: The Oath In Felghana [US]                           ULUS-10558
+7th Dragon 2020 (PS Store) [JP]                         NPJH-50459
+Gladiator Begins [US]                                   ULUS-10528
+MotoGP [US]                                             ULUS-10153
+
+Total: 84 unique games
