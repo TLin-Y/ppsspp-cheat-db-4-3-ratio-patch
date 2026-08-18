@@ -4,7 +4,7 @@ A curated collection of CWCheat codes patched for **4:3 aspect ratio** support o
 
 ## What's Inside
 
-This repository contains a modified cheat database (`cheat-43.db`) derived from the original CWCheat database. All aspect ratio cheats have been adjusted to output a **4:3 ratio** instead of the default widescreen (16:9/16:10) that PPSSPP applies.
+This repository contains a modified cheat database (`cheat-43.db`) derived from the original CWCheat database. All aspect ratio cheats have been adjusted to output a **4:3 ratio** instead of the default widescreen (16:9) that PPSSPP applies.
 
 ## Testing
 
